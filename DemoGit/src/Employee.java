@@ -15,7 +15,7 @@ public class Employee {
 	public void setEmpname(String empname) {
 		this.empname = empname;
 	}
-	public double getEmpsal() {
+	public double getEmpsal() {iugkmjftfgjh
 		return empsal;
 	}
 	public void setEmpsal(double empsal) {
